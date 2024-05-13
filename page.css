@@ -1,0 +1,80 @@
+.container{
+    background-color:white;
+    border: 2px solid black;
+    height: 900px;
+    width: 900px;
+
+}
+.RNW{
+    color: red;
+    text-align: center;
+}
+.ME{
+    color: red;
+    text-align: center;
+    margin: -20px;
+}
+.ME1{
+    color: black;
+    text-align: center;
+    margin: -20;
+    font-style: italic;
+}
+.box1{
+    height: auto;
+    width: 500px;
+    border: 2px solid rgb(6, 6, 24);
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    color: white;
+    background-color: rgb(6, 6, 68);
+}
+.roted{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(7, 6, 68);
+    color: azure;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    border-radius: 50%
+}
+.roted1{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    color: azure;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    border-radius: 50%;
+}
+.roted2{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(240, 225, 11);
+    color: azure;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    border-radius: 50%;
+
+}
+.box2{
+    height: 50px;
+    width: 898px;
+    border: 2px solid rgb(6, 6, 24);
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    color: white;
+    background-color: rgb(6, 6, 68);
+
+}
