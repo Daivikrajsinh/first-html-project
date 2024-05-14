@@ -35,7 +35,7 @@
     width: 200px;
     background-color: rgb(7, 6, 68);
     color: azure;
-    font-size: 50px;
+    font-size: 90px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -47,7 +47,7 @@
     width: 200px;
     background-color: red;
     color: azure;
-    font-size: 50px;
+    font-size: 90px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -59,7 +59,7 @@
     width: 200px;
     background-color: rgb(240, 225, 11);
     color: azure;
-    font-size: 50px;
+    font-size: 90px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -76,5 +76,30 @@
     text-align: center;
     color: white;
     background-color: rgb(6, 6, 68);
+
+}
+.fht{
+    display: flex;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 30px;
+    justify-content: right;
+      
+}
+.fht1{
+    display: flex;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 30px;
+    justify-content: right;
+  
+}
+.fht2{
+    display: flex;
+    
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 30px;
+    justify-content: right;
 
 }
